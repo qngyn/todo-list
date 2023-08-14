@@ -1,2 +1,2 @@
 # todo-list
-view the app here [https://todolist-qtn.netlify.app/]
+View the app here https://todolist-qtn.netlify.app/
