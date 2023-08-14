@@ -36,7 +36,7 @@ function displayTodoList(item) {
         let idFromDB = ref(database, `todo/${itemID}`)
         remove(idFromDB)
     })
-    newEl.textContent = date + " " + itemValue
+    newEl.textContent = date + ": " + itemValue
     todoListEl.append(newEl)
 }
 
